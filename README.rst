@@ -12,7 +12,7 @@ Also add on account entries:
 * a checkbox and filter "to be reversed"
 * a link between an entry and its reversal entry
 
-Odoo v9c include a similar action (overwritten by this addon), but with less
+Odoo v10c include a similar action (overwritten by this addon), but with less
 features, for instance:
 
 * Allowing inheritance
@@ -23,7 +23,7 @@ features, for instance:
 Usage
 =====
 
-As in Odoo v9c, if you select an entry from Accounting > Adviser > Journal Entries,
+As in Odoo v10c, if you select an entry from Accounting > Adviser > Journal Entries,
 then an action menu 'Reverse Entries' is available. If clicked, then a wizard
 allows user to select Reversal Date, Reversal Journal, Prefix, Post and Reconcile.
 

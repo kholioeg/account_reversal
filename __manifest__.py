@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "Account Reversal",
+    "name": "Account Reversal (V10c)",
     "summary": "Wizard for creating a reversal account move",
     "category": "Accounting & Finance",
     "website": "https://odoo-community.org/",
