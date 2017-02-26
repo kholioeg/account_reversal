@@ -1,9 +1,11 @@
 .. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
-   :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
+:target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
 
 Account Reversal
 ================
+
+NOTE: This module is the port for V10. Tested only on V10 Community Edition.
 
 This module adds an action "Reversal" on account moves,
 to allow the accountant to create reversal account moves in 2 clicks.
@@ -37,7 +39,7 @@ There is also a new menu Accounting > Adviser > Journal Entries to be Reversed
 in order to allow tracking entries that must be reserved for any reason.
 
 .. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
-   :alt: Try me on Runbot
+:alt: Try me on Runbot
    :target: https://runbot.odoo-community.org/runbot/92/9.0
 
 
@@ -64,7 +66,7 @@ Maintainer
 ----------
 
 .. image:: https://odoo-community.org/logo.png
-   :alt: Odoo Community Association
+:alt: Odoo Community Association
    :target: https://odoo-community.org
 
 This module is maintained by the OCA.
