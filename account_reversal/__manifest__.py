@@ -8,7 +8,7 @@
               "Camptocamp,"
               "ACSONE SA/NV,"
               "Tecnativa,"
-              "Khaled Hamed",
+              "Khaled Hamed,"
               "Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,
